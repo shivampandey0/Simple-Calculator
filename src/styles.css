@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  margin-top: 5rem;
+}
+
+h1 {
+  color: darkslategrey;
+}
+
+label {
+  color: slategray;
+  margin: 1rem;
+  display: block;
+}
+
+input {
+  border: 2px solid slategray;
+  text-align: center;
+}
+
+button {
+  margin: 2rem;
+  padding: 1rem;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  background-color: darkslategray;
+  color: white;
+  font-size: larger;
+  border: none;
+  cursor: pointer;
+  border-radius: 0.2rem;
+  text-decoration: none;
+}
+
+.answer {
+  color: darkslategray;
+  font-size: larger;
+  font-weight: bold;
+}
